@@ -1,3 +1,5 @@
+Disclaimer: This project and all examples are open-source, created independently using publicly available tools (ChatGPT, stately.ai, Cucumber.js). They are not affiliated with any employer or proprietary work
+
 # Robot Simulator BDD
 
 A JavaScript-based robot simulator using BDD.
